@@ -151,7 +151,7 @@ Comportamiento del componente (según el PDF):
 
 ---
 
-## ▶ Cómo ejecutar
+##  Cómo ejecutar
 
 1. **Compilar y correr** con Maven:
 
